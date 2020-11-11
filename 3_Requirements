@@ -1,0 +1,16 @@
+High Level Requirements:
+
+  ID	                    Description
+HL_01	      The page is accessible and editable
+HL_02     	The alignment of text is proper
+HL_03	      Clear, Save, Print button should be working
+HL_04     	Interactive UI
+
+
+Low level requirements:
+
+  ID	                      Description
+LL_01	     File saved after editing 
+LL_02	     Page reset after clicking clear button 
+LL_03	     Printing page in correct format after print
+LL_04   	 Save HTML option make changes to original HTML file
